@@ -1,0 +1,1764 @@
+
+.paragraph-bg1 {
+    position: absolute;
+    top: 0%;
+    left: 0;
+    margin: 0;
+    color: rgb(159, 158, 158);
+   
+}
+.custom-paragraph1{
+    position: absolute;
+    top: 0%;
+    left: 2%;
+    font-size: 14px;
+    color: darkslategrey;
+    font-family: 'Arial';
+}
+.custom-dropdown {
+    position: absolute;
+    top: 2%;
+    left: 82%;
+    display: inline-block;
+    z-index: 9999;
+}
+
+.custom-label {
+    position: absolute;
+    margin: 0;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 14px;
+    color: darkslategrey;
+    
+
+}
+
+.custom-checkbox {
+    position: absolute;
+    display: none;
+    
+
+}
+
+.custom-options {
+    position: absolute;
+    top: 18px;
+    left: 0;
+    width: 100px;
+    background-color: #f8f2f2;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    list-style: none;
+    padding: 0;
+    display: none;
+    z-index: 9999;
+    
+
+}
+
+.custom-dropdown:hover .custom-options {
+    display: block;
+   
+
+}
+
+.custom-options label {
+    display: block;
+    padding: 8px 12px;
+    cursor: default; /* Disable pointer cursor */
+    font-family: 'Calibri';
+    font-size: 14px;
+    color: black;
+
+    
+
+}
+
+.custom-options label:hover {
+    background-color: white;
+}
+.custom-dropdown1 {
+    position: absolute;
+    top: 2%;
+    left: 93%;
+    display: inline-block;
+    z-index: 9999;
+}
+
+.custom-label1 {
+    position: absolute;
+    margin: 0;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 14px;
+    color: darkslategrey;
+    
+
+}
+
+.custom-checkbox1 {
+    position: absolute;
+    display: none;
+    
+
+}
+
+.custom-options1 {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    width: 60px;
+    padding: 5px 0;
+    background-color: #f8f2f2;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    list-style: none;
+    margin: 1%;
+    padding: 0;
+    display: none;
+    z-index: 9999;
+    
+
+}
+
+.custom-dropdown1:hover .custom-options1 {
+    display: block;
+   
+
+}
+
+.custom-options1 label {
+    display: block;
+    padding: 8px 12px;
+    cursor: default; /* Disable pointer cursor */
+    font-family: 'Calibri';
+    font-size: 14px;
+    color: black;
+    
+
+}
+
+.custom-options1 label:hover {
+    background-color: white;
+}
+
+.paragraph-bg2{
+    position: absolute;
+    left: 0;
+    top: 6%;
+    width: 100%;
+    height: 11%;
+    background-color: white;
+    z-index: 999;
+}
+.header{
+    position: absolute;
+    top: -20%;
+    left: 2%;
+    font-size: 20px;
+    font-family: 'bell MT';
+    z-index: 999;
+
+}
+.selection{
+    position: absolute;
+    top: 20px;
+    left: 15%;
+    font-size: 15px;
+    font-family: 'calibri';
+    z-index: 999;
+}
+.selection1{
+    position: absolute;
+    top: 20px;
+    left: 22%;
+    font-size: 15px;
+    font-family: 'calibri';
+    z-index: 999;
+}
+.selection2{
+    position: absolute;
+    top: 20px;
+    left: 29%;
+    font-size: 15px;
+    font-family: 'calibri';
+    z-index: 999;
+}
+.selection3{
+    position: absolute;
+    top: 20px;
+    left: 35%;
+    font-size: 15px;
+    font-family: 'calibri';
+    z-index: 999;
+}
+.selection4{
+    position: absolute;
+    top: 20px;
+    left: 44%;
+    font-size: 15px;
+    font-family: 'calibri';
+    z-index: 999;
+}
+.selection5{
+    position: absolute;
+    top: 20px;
+    left: 53%;
+    font-size: 15px;
+    font-family: 'calibri';
+    z-index: 999;
+}
+.paragraph-bg3{
+    position: absolute;
+    left: 80%;
+    top: 20px;
+    width: 12%;
+    height: 60%;
+    background-color: darkslategrey;
+    z-index: 999; 
+    cursor: pointer; 
+}
+.design{
+    position: absolute;
+    top: 20%;
+    left: 81%;
+    font-size: 16px;
+    font-family: 'calibri';
+    color: white;
+    z-index: 999;
+}
+.icon{
+    position: absolute;
+    top: 10%;
+    left: 93%;
+    z-index: 999;
+}
+
+.background{
+    position: absolute;
+    top: 120px;
+    left: 0;
+}
+.desc{
+    position: absolute;
+    top: 250px;
+    left: 15%;
+    font-size: 25px;
+    color: white;
+}
+.descrip{
+    position: absolute;
+    top: 390px;
+    left: 15%;
+    font-size: 17px;
+    color: white;
+    font-family: 'calibri';
+}
+.paragraph-bg4{
+    position: absolute;
+    top: 480px;
+    left: 15%;
+    width: 20%;
+    height: 8%;
+    background-color: white;
+}
+.shop{
+    position: absolute;
+    top: 480px;
+    left: 21%;
+    font-size: 18px;
+    color: black;
+    font-family: 'calibri';
+}
+.help{
+    position: absolute;
+    top: 530px;
+    left: 15%;
+    font-size: 15px;
+    color: white;
+    font-family: 'calibri';
+}
+.paragraph-bg5{
+    position: absolute;
+    top: 620px;
+    left: 0;
+    width: 100%;
+    height: 35%;
+    background-color:rgb(32, 78, 49);
+}
+.press{
+    position: absolute;
+    top: 630px;
+    left: 46%;
+    font-size: 16px;
+    font-family: 'Arial';
+    color: white;
+}
+.press1{
+    position: absolute;
+    top: 650px;
+    left: 20%;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+    color: white;
+}
+.logo{
+    position: absolute;
+    top: 780px;
+    left: 16%;
+}
+.logo1{
+    position: absolute;
+    top: 780px;
+    left: 29%;
+}
+.logo2{
+    position: absolute;
+    top: 780px;
+    left: 50%;
+}
+.logo3{
+    position: absolute;
+    top: 780px;
+    left: 62%;
+}
+.logo4{
+    position: absolute;
+    top: 780px;
+    left: 83%;
+}
+.paragraph {
+    position: absolute;
+    top: 150%;
+    left: 28%;
+    font-size: 40px;
+    color: rgb(32, 78, 49);
+    font-family: 'Times New Roman';
+}
+.image-container2 {
+    position: absolute;
+    top: 170%;
+    left: 13%;
+    overflow: hidden; /* Ensure the image doesn't overflow its container */
+  
+  }
+  
+  .image-container2 img {
+    transition: transform 0.3s ease; /* Smooth transition for zoom effect */
+  }
+  
+  .image-container2:hover img {
+    transform: scale(1.1); /* Zoom the image on hover */
+  }
+  .paragraph1 {
+    position: absolute;
+    top: 220%;
+    left: 13%;
+    font-size: 25px;
+    font-family: Arial;
+    color: rgb(137, 184, 226);
+  }
+  .paragraph2 {
+    position: absolute;
+    top: 224.3%;
+    left: 25%;
+  }
+  .paragraph3 {
+    position: absolute;
+    top: 227%;
+    left: 13%;
+    font-size: 16px;
+    font-family: Arial;
+    color: rgb(51, 50, 50);
+  }
+  .image-container3 {
+    position: absolute;
+    top: 170%;
+    left: 53%;
+    overflow: hidden; /* Ensure the image doesn't overflow its container */
+  
+  }
+  
+  .image-container3 img {
+    transition: transform 0.3s ease; /* Smooth transition for zoom effect */
+  }
+  
+  .image-container3:hover img {
+    transform: scale(1.1); /* Zoom the image on hover */
+  }
+  .paragraph4 {
+    position: absolute;
+    top: 220%;
+    left: 53%;
+    font-size: 25px;
+    font-family: Arial;
+    color: rgb(137, 184, 226);
+  }
+  .paragraph5 {
+    position: absolute;
+    top: 224.3%;
+    left: 65%;
+  }
+  .paragraph6 {
+    position: absolute;
+    top: 227.2%;
+    left: 53%;
+    font-size: 16px;
+    font-family: Arial;
+    color: rgb(51, 50, 50);
+  }
+  .paragraph7 {
+    position: absolute;
+    top: 240%;
+    left: 35%;
+    font-size: 40px;
+    color: rgb(32, 78, 49);
+    font-family: 'Times New Roman';
+}
+.image-container4 {
+    position: absolute;
+    top: 260%;
+    left: 11%;
+    overflow: hidden; /* Ensure the image doesn't overflow its container */
+  
+  }
+  
+  .image-container4 img {
+    transition: transform 0.3s ease; /* Smooth transition for zoom effect */
+  }
+  
+  .image-container4:hover img {
+    transform: scale(1.1); /* Zoom the image on hover */
+  }
+  .image-container5 {
+    position: absolute;
+    top: 260%;
+    left: 38%;
+    overflow: hidden; /* Ensure the image doesn't overflow its container */
+  
+  }
+  
+  .image-container5 img {
+    transition: transform 0.3s ease; /* Smooth transition for zoom effect */
+  }
+  
+  .image-container5:hover img {
+    transform: scale(1.1); /* Zoom the image on hover */
+  }
+  .image-container6 {
+    position: absolute;
+    top: 260%;
+    left: 65%;
+    overflow: hidden; /* Ensure the image doesn't overflow its container */
+  
+  }
+  
+  .image-container6 img {
+    transition: transform 0.3s ease; /* Smooth transition for zoom effect */
+  }
+  
+  .image-container6:hover img {
+    transform: scale(1.1); /* Zoom the image on hover */
+  }
+  .paragraph8 {
+    position: absolute;
+    top: 326%;
+    left: 18%;
+    font-size: 30px;
+    font-family: Arial;
+    color: rgb(51, 50, 50);
+  }
+  .paragraph9 {
+    position: absolute;
+    top: 326%;
+    left: 45%;
+    font-size: 30px;
+    font-family: Arial;
+    color: rgb(51, 50, 50);
+  }
+  .paragraph10 {
+    position: absolute;
+    top: 326%;
+    left: 69.5%;
+    font-size: 30px;
+    font-family: Arial;
+    color: rgb(51, 50, 50);
+  }
+  .paragraph11 {
+    position: absolute;
+    top: 334%;
+    left: 19%;
+    font-size: 16px;
+    font-family: Arial;
+    color: rgb(137, 184, 226);
+  }
+  .paragraph12 {
+    position: absolute;
+    top: 334%;
+    left: 46%;
+    font-size: 16px;
+    font-family: Arial;
+    color: rgb(137, 184, 226);
+  }
+  .paragraph13 {
+    position: absolute;
+    top: 334%;
+    left: 74%;
+    font-size: 16px;
+    font-family: Arial;
+    color: rgb(137, 184, 226);
+  }
+  .paragraph14 {
+    position: absolute;
+    top: 336.7%;
+    left: 23.8%;
+    font-size: 16px;
+    font-family: Arial;
+    color: rgb(137, 184, 226);
+  }
+  .paragraph15 {
+    position: absolute;
+    top: 336.7%;
+    left: 50.8%;
+    font-size: 16px;
+    font-family: Arial;
+    color: rgb(137, 184, 226);
+  }
+  .paragraph16 {
+    position: absolute;
+    top: 336.7%;
+    left: 78.7%;
+    font-size: 16px;
+    font-family: Arial;
+    color: rgb(137, 184, 226);
+  }
+  .custom-button {
+    position: absolute;
+    top: 355%;
+    left: 40%;
+    width: 20%;
+    height: 7%;
+    background-color: rgb(21, 51, 34);
+    color: white;
+    font: 20%;
+    padding: 10px 20px;
+    border: 2px solid black; /* Add a 2px black border */
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Include border-color in the transition */
+  }
+  
+  .custom-button:hover {
+    background-color: white; /* Change background color on hover */
+    color: rgb(18, 83, 47); /* Change text color on hover */
+    
+  }
+  .background1 {
+    position: absolute;
+    top: 373%;
+    left: 0;
+    width: 100%;
+    height: 65%;
+    background-color: rgb(231, 231, 231);
+  }
+  .paragraph17 {
+    position: absolute;
+    top: 375%;
+    left: 24%;
+    font-size: 35px;
+    font-family: 'Times New Roman';
+    color: rgb(55, 53, 53);
+  }
+  .paragraph18 {
+    position: absolute;
+    top: 388%;
+    left: 22%;
+    font-size: 16px;
+    font-family: Arial;
+    color: rgb(55, 53, 53);
+  }
+  .paragraph19 {
+    position: absolute;
+    top: 405%;
+    left: 17%;
+  }
+  .paragraph20 {
+    position: absolute;
+    top: 405%;
+    left: 30%;
+  }
+  .paragraph21 {
+    position: absolute;
+    top: 405%;
+    left: 43%;
+  }
+  .background2{
+    position: absolute;
+    top: 402%;
+    left: 56%;
+    width: 40%;
+    height: 30%;
+    background-color: white;
+  }
+  .paragraph22 {
+    position: absolute;
+    top: 406%;
+    left: 58%;
+  }
+  .paragraph23 {
+    position: absolute;
+    top: 406%;
+    left: 71%;
+  }
+  .paragraph24 {
+    position: absolute;
+    top: 406%;
+    left: 85%;
+  }
+  .paragraph25 {
+    position: absolute;
+    top: 420%;
+    left: 17%;
+    font-size: 14px;
+    font-family: Arial;
+    color: rgb(55, 53, 53);
+  }
+  .paragraph26 {
+    position: absolute;
+    top: 420%;
+    left: 30%;
+    font-size: 14px;
+    font-family: Arial;
+    color: rgb(55, 53, 53);
+  }
+  .paragraph27 {
+    position: absolute;
+    top: 420%;
+    left: 43%;
+    font-size: 14px;
+    font-family: Arial;
+    color: rgb(55, 53, 53);
+  }
+  .paragraph28 {
+    position: absolute;
+    top: 421%;
+    left: 58%;
+    font-size: 14px;
+    font-family: Arial;
+    color: rgb(55, 53, 53);
+  }
+  .paragraph29 {
+    position: absolute;
+    top: 421%;
+    left: 70%;
+    font-size: 14px;
+    font-family: Arial;
+    color: rgb(55, 53, 53);
+  }
+  .paragraph30 {
+    position: absolute;
+    top: 421%;
+    left: 85%;
+    font-size: 14px;
+    font-family: Arial;
+    color: rgb(55, 53, 53);
+  }
+  .background3{
+    position:absolute;
+    top: 400%;
+    left: 69%;
+    width: 12%;
+    height: 5%;
+    background-color: #90cae7;
+    transform: skewY(-7deg);
+  }
+  .paragraph31 {
+    position: absolute;
+    top: 399.5%;
+    left: 70%;
+    font-size: 12px;
+    font-family: Arial;
+    color: white;
+    transform: skewY(-7deg);
+  }
+  .paragraph32 {
+    position: absolute;
+    top: 455%;
+    left: 10%;
+    font-size: 35px;
+    font-family: 'Times New Roman';
+    color: rgb(25, 54, 21);
+  }
+  .paragraph33 {
+    position: absolute;
+    top: 475%;
+    left: 10%;
+    font-size: 16px;
+    font-family: 'calibri';
+    color: rgb(25, 54, 21);
+  }
+  .custom-button1 {
+    position: absolute;
+    top: 495%;
+    left: 10%;
+    width: 15%;
+    height: 7%;
+    background-color: rgb(39, 59, 48);
+    color: white;
+    font: 20%;
+    padding: 10px 20px;
+    border: 1px solid black; /* Add a 2px black border */
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Include border-color in the transition */
+  }
+  
+  .custom-button1:hover {
+    background-color: white; /* Change background color on hover */
+    color: rgb(25, 111, 64); /* Change text color on hover */
+    
+  }
+  .background4 {
+    position:absolute;
+    top: 455%;
+    left: 67%;
+    width: 8%;
+    height: 60%;
+    background-color: #bcc1c4;
+  }
+  .paragraph34 {
+    position: absolute;
+    top: 457%;
+    left: 55%;
+    font-size: 18px;
+    font-family: 'calibri';
+    color: rgb(131, 130, 130);
+  }
+  .paragraph35 {
+    position: absolute;
+    top: 475%;
+    left: 57%;
+    font-size: 18px;
+    font-family: 'calibri';
+    color: rgb(131, 130, 130);
+  }
+  .paragraph36 {
+    position: absolute;
+    top: 489%;
+    left: 57%;
+    font-size: 18px;
+    font-family: 'calibri';
+    color: rgb(131, 130, 130);
+  }
+  .paragraph37 {
+    position: absolute;
+    top: 504%;
+    left: 57%;
+    font-size: 18px;
+    font-family: 'calibri';
+    color: rgb(131, 130, 130);
+  }
+  .paragraph38 {
+    position: absolute;
+    top: 513%;
+    left: 68%;
+    font-size: 18px;
+    font-family: 'calibri';
+    color: rgb(28, 28, 28);
+  }
+  .background5 {
+    position:absolute;
+    top: 485%;
+    left: 78%;
+    width: 8%;
+    height: 30%;
+    background-color: rgb(39, 59, 48);
+  }
+  .background6 {
+    position: absolute;
+    top: 455%;
+    left: 78%;
+    width: 7.9%;
+    height: 30%;
+    background-color: white;
+    border-top: 1px solid rgb(151, 148, 148);
+    border-bottom: 1px solid rgb(151, 148, 148);
+    border-left: 1px solid rgb(151, 148, 148);
+    border-right:1px solid rgb(151, 148, 148) ;
+  }
+  .paragraph39 {
+    position: absolute;
+    top: 473%;
+    left: 79.7%;
+    font-size: 18px;
+    font-family: 'calibri';
+    color: rgb(144, 138, 138);
+  }
+  .paragraph40 {
+    position: absolute;
+    top: 510%;
+    left: 77.5%;
+    font-size: 40px;
+    font-family: 'bell MT';
+    color:rgb(39, 59, 48);
+  }
+  .background7 {
+    position: absolute;
+    top: 535%;
+    left: 0;
+    width: 100%;
+    height: 119%;
+    background-color: rgb(231, 231, 231);
+  }
+  .paragraph41 {
+    position: absolute;
+    top: 545%;
+    left: 10%;
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    color:rgb(39, 59, 48);
+  }
+
+  .background8 {
+    position: absolute;
+    top: 568%;
+    left: 9%;
+    width: 19.1%;
+    height: 58%;
+    background-color: white;
+  }
+  .pic {
+    position: absolute;
+    top: 568%;
+    left: 9%;
+  }
+  .paragraph42 {
+    position: absolute;
+    top: 609%;
+    left: 10%;
+    font-size: 18px;
+    font-family: 'calibri';
+    color:rgb(39, 59, 48);
+  }
+  .paragraph43 {
+    position: absolute;
+    top: 609%;
+    left: 23%;
+    font-size: 18px;
+    font-family: 'times new roman';
+    color:rgb(129, 137, 133);
+  }
+  .paragraph44 {
+    position: absolute;
+    top: 615%;
+    left: 10%;
+    font-size: 16px;
+    font-family: 'calibri';
+    color:rgb(129, 137, 133);
+  }
+
+  .background9 {
+    position: absolute;
+    top: 568%;
+    left: 30%;
+    width: 19.1%;
+    height: 58%;
+    background-color: white;
+  }
+  .pic1 {
+    position: absolute;
+    top: 568%;
+    left: 30%;
+  }
+  .background10 {
+    position: absolute;
+    top: 568%;
+    left: 51%;
+    width: 19.1%;
+    height: 58%;
+    background-color: white;
+  }
+  .pic2 {
+    position: absolute;
+    top: 568%;
+    left: 51%;
+  }
+  .background11 {
+    position: absolute;
+    top: 568%;
+    left: 72%;
+    width: 19.1%;
+    height: 58%;
+    background-color: white;
+  }
+
+  .pic3 {
+    position: absolute;
+    top: 568%;
+    left: 72%;
+  }
+  .paragraph45 {
+    position: absolute;
+    top: 609%;
+    left: 31%;
+    font-size: 18px;
+    font-family: 'calibri';
+    color:rgb(39, 59, 48);
+  }
+  .paragraph46 {
+    position: absolute;
+    top: 609%;
+    left: 44.3%;
+    font-size: 18px;
+    font-family: 'times new roman';
+    color:rgb(129, 137, 133);
+  }
+  .paragraph47 {
+    position: absolute;
+    top: 615%;
+    left: 31%;
+    font-size: 16px;
+    font-family: 'calibri';
+    color:rgb(129, 137, 133);
+  }
+  .paragraph48 {
+    position: absolute;
+    top: 609%;
+    left: 52%;
+    font-size: 18px;
+    font-family: 'calibri';
+    color:rgb(39, 59, 48);
+  }
+  .paragraph49 {
+    position: absolute;
+    top: 609%;
+    left: 64%;
+    font-size: 18px;
+    font-family: 'times new roman';
+    color:rgb(129, 137, 133);
+  }
+  .paragraph50 {
+    position: absolute;
+    top: 615%;
+    left: 52%;
+    font-size: 16px;
+    font-family: 'calibri';
+    color:rgb(129, 137, 133);
+  }
+  .paragraph51 {
+    position: absolute;
+    top: 609%;
+    left: 73%;
+    font-size: 18px;
+    font-family: 'calibri';
+    color:rgb(39, 59, 48);
+  }
+  .paragraph52 {
+    position: absolute;
+    top: 609%;
+    left: 85%;
+    font-size: 18px;
+    font-family: 'times new roman';
+    color:rgb(129, 137, 133);
+  }
+  .paragraph53 {
+    position: absolute;
+    top: 615%;
+    left: 73%;
+    font-size: 16px;
+    font-family: 'calibri';
+    color:rgb(129, 137, 133);
+  }
+  .custom-button2 {
+    position: absolute;
+    top: 640%;
+    left: 40%;
+    width: 18%;
+    height: 8%;
+    background-color: rgb(39, 59, 48);
+    font-family: ARIAL;
+    color: white;
+    font: 30%;
+    padding: 10px 20px;
+    border: 1px solid black; /* Add a 2px black border */
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Include border-color in the transition */
+  }
+  
+  .custom-button2:hover {
+    background-color: white; /* Change background color on hover */
+    color: rgb(25, 111, 64); /* Change text color on hover */
+    
+  }
+  .paragraph54 {
+    position: absolute;
+    top: 670%;
+    left: 11%;
+    font-size: 40px;
+    font-family: 'BELL MT';
+    color:rgb(52, 75, 64);
+  }
+  .background12 {
+    position: absolute;
+    top: 665%;
+    left: 50%;
+    width: 17%;
+    height: 45%;
+    background-color: white;
+    border-top: 1px solid rgb(202, 197, 197);
+    border-bottom: 1px solid rgb(202, 197, 197);
+    border-left: 1px solid rgb(202, 197, 197);
+    border-right:1px solid rgb(202, 197, 197) ;
+  }
+  .pic4 {
+    position: absolute;
+    top: 670%;
+    left: 55.5%;
+  }
+  .paragraph55 {
+    position: absolute;
+    top: 679%;
+    left: 55.5%;
+    font-size: 16px;
+    font-family: Arial;
+    color:rgb(49, 62, 55);
+  }
+  .paragraph56 {
+    position: absolute;
+    top: 683%;
+    left: 55%;
+    font-size: 14px;
+    font-family: Arial;
+    color:rgb(167, 168, 168);
+  }
+  .paragraph57 {
+    position: absolute;
+    top: 688%;
+    left: 52%;
+    font-size: 14px;
+    font-family: Arial;
+    color:rgb(85, 89, 89);
+  }
+  .background13 {
+    position: absolute;
+    top: 665%;
+    left: 70%;
+    width: 17%;
+    height: 45%;
+    background-color: white;
+    border-top: 1px solid rgb(202, 197, 197);
+    border-bottom: 1px solid rgb(202, 197, 197);
+    border-left: 1px solid rgb(202, 197, 197);
+    border-right:1px solid rgb(202, 197, 197) ;
+  }
+  .pic5 {
+    position: absolute;
+    top: 670%;
+    left: 75.4%;
+  }
+  .paragraph58 {
+    position: absolute;
+    top: 679%;
+    left: 75%;
+    font-size: 16px;
+    font-family: Arial;
+    color:rgb(49, 62, 55);
+  }
+  .paragraph59 {
+    position: absolute;
+    top: 683%;
+    left: 73%;
+    font-size: 14px;
+    font-family: Arial;
+    color:rgb(167, 168, 168);
+  }
+  .paragraph60 {
+    position: absolute;
+    top: 688%;
+    left: 73%;
+    font-size: 14px;
+    font-family: Arial;
+    color:rgb(85, 89, 89);
+  }
+  .background14 {
+    position: absolute;
+    top: 715%;
+    left: 50%;
+    width: 17%;
+    height: 45%;
+    background-color: white;
+    border-top: 1px solid rgb(202, 197, 197);
+    border-bottom: 1px solid rgb(202, 197, 197);
+    border-left: 1px solid rgb(202, 197, 197);
+    border-right:1px solid rgb(202, 197, 197) ;
+  }
+  .pic6 {
+    position: absolute;
+    top: 719%;
+    left: 55%;
+  }
+  .paragraph61 {
+    position: absolute;
+    top: 727%;
+    left: 55%;
+    font-size: 16px;
+    font-family: Arial;
+    color:rgb(49, 62, 55);
+  }
+  .paragraph62 {
+    position: absolute;
+    top: 734%;
+    left: 54%;
+    font-size: 14px;
+    font-family: Arial;
+    color:rgb(167, 168, 168);
+  }
+  .paragraph63 {
+    position: absolute;
+    top: 739%;
+    left: 52.4%;
+    font-size: 14px;
+    font-family: Arial;
+    color:rgb(85, 89, 89);
+  }
+  .background15 {
+    position: absolute;
+    top: 715%;
+    left: 70%;
+    width: 17%;
+    height: 45%;
+    background-color: white;
+    border-top: 1px solid rgb(202, 197, 197);
+    border-bottom: 1px solid rgb(202, 197, 197);
+    border-left: 1px solid rgb(202, 197, 197);
+    border-right:1px solid rgb(202, 197, 197) ;
+  }
+  .pic7 {
+    position: absolute;
+    top: 719%;
+    left: 75%;
+  }
+  .paragraph64 {
+    position: absolute;
+    top: 727%;
+    left: 74%;
+    font-size: 16px;
+    font-family: Arial;
+    color:rgb(49, 62, 55);
+  }
+  .paragraph65 {
+    position: absolute;
+    top: 732%;
+    left: 74%;
+    font-size: 14px;
+    font-family: Arial;
+    color:rgb(167, 168, 168);
+  }
+  .paragraph66 {
+    position: absolute;
+    top: 739%;
+    left: 72%;
+    font-size: 14px;
+    font-family: Arial;
+    color:rgb(85, 89, 89);
+  }
+  .paragraph67 {
+    position: absolute;
+    top: 705%;
+    left: 10%;
+    font-size: 16px;
+    font-family: Arial;
+    color:rgb(93, 95, 95);
+  }
+
+ 
+
+  .paragraph68 {
+    position: absolute;
+    top: 725%;
+    left: 10%;
+    cursor: pointer;
+  }
+  .paragraph69 {
+    position: absolute;
+    top: 725%;
+    left: 23%;
+    cursor: pointer;
+  }
+  .paragraph70 {
+    position: absolute;
+    top: 725%;
+    left: 35%;
+    cursor: pointer;
+  }
+  .pic8 {
+    position: absolute;
+   top: 780%;
+   left: 1%;
+  }
+  .pic9 {
+    position: absolute;
+   top: 780%;
+   left: 21%;
+  }
+  .pic10 {
+    position: absolute;
+   top: 780%;
+   left: 41%;
+  }
+  .pic11 {
+    position: absolute;
+   top: 780%;
+   left: 61%;
+  }
+  .pic12 {
+    position: absolute;
+   top: 780%;
+   left: 81%;
+  }
+  .background16 {
+    position: absolute;
+    top: 820%;
+    left: 0;
+    background-color: rgb(52, 70, 59);
+    width: 100%;
+    height: 70%;
+  }
+  .paragraph71 {
+    position: absolute;
+    top: 827%;
+    left: 11%;
+    font-size: 50px;
+    font-family: 'bell MT';
+    color:rgb(163, 171, 167);
+  }
+  .paragraph72 {
+    position: absolute;
+    top: 844%;
+    left: 11%;
+    font-size: 16px;
+    font-family: 'calibri';
+    color:rgb(163, 171, 167);
+  }
+  .paragraph73 {
+    position: absolute;
+    top: 835%;
+    left: 28%;
+    font-size: 16px;
+    font-family: 'calibri';
+    color:rgb(163, 171, 167);
+  }
+  .paragraph74 {
+    position: absolute;
+    top: 842%;
+    left: 28%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph74:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph74 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph75 {
+    position: absolute;
+    top: 835%;
+    left: 42%;
+    font-size: 16px;
+    font-family: 'calibri';
+    color:rgb(163, 171, 167);
+  }
+  .paragraph76 {
+    position: absolute;
+    top: 835%;
+    left: 56%;
+    font-size: 16px;
+    font-family: 'calibri';
+    color:rgb(163, 171, 167);
+  }
+  .paragraph77 {
+    position: absolute;
+    top: 842%;
+    left: 42%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph77:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph77 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph78 {
+    position: absolute;
+    top: 842%;
+    left: 56%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph78:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph78 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph79 {
+    position: absolute;
+    top: 845%;
+    left: 28%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph79:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph79 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph80 {
+    position: absolute;
+    top: 845%;
+    left: 42%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph80:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph80 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph81 {
+    position: absolute;
+    top: 845%;
+    left: 56%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph81:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph81 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph82 {
+    position: absolute;
+    top: 848%;
+    left: 28%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph82:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph82 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph83 {
+    position: absolute;
+    top: 848%;
+    left: 42%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph83:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph83 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph84 {
+    position: absolute;
+    top: 848%;
+    left: 56%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph84:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph84 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph85 {
+    position: absolute;
+    top: 851%;
+    left: 28%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph85:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph85 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph86 {
+    position: absolute;
+    top: 851%;
+    left: 42%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph86:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph86 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph87 {
+    position: absolute;
+    top: 851%;
+    left: 56%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph87:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph87 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph88 {
+    position: absolute;
+    top: 854%;
+    left:28%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph88:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph88 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph89 {
+    position: absolute;
+    top: 854%;
+    left:42%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph89:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph89 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph90 {
+    position: absolute;
+    top: 854%;
+    left:56%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph90:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph90 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph91 {
+    position: absolute;
+    top: 857%;
+    left:28%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph91:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph91 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph92 {
+    position: absolute;
+    top: 857%;
+    left:42%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph92:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph92 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph93 {
+    position: absolute;
+    top: 857%;
+    left:56%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph93:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph93 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph94 {
+    position: absolute;
+    top: 860%;
+    left:28%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph94:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph94 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph95 {
+    position: absolute;
+    top: 860%;
+    left:42%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph95:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph95 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph96 {
+    position: absolute;
+    top: 860%;
+    left:56%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph96:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph96 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph97 {
+    position: absolute;
+    top: 863%;
+    left:28%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph97:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph97 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph98 {
+    position: absolute;
+    top: 863%;
+    left:42%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph98:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph98 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph99 {
+    position: absolute;
+    top: 863%;
+    left:56%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph99:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph99 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph100 {
+    position: absolute;
+    top: 866%;
+    left:56%;
+    margin: 0;
+    font-size: 13px;
+    font-family: arial;
+    color:rgb(220, 228, 225);
+    cursor: pointer;
+  }
+  
+  .paragraph100:hover {
+    text-decoration: underline; /* Add underline when hovered */
+  }
+  
+  .paragraph100 img {
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  .paragraph101 {
+    position: absolute;
+    top: 835%;
+    left: 70%;
+    font-size: 16px;
+    font-family: 'calibri';
+    color:rgb(163, 171, 167);
+  }
+  .background17 {
+    position: absolute;
+    top: 845%;
+    left: 70%;
+    width: 23%;
+    height: 7%;
+    background-color: rgba(164, 160, 160, 0.338);
+  }
+  .paragraph102 {
+    position: absolute;
+    top: 844%;
+    left: 71%;
+    font-size: 16px;
+    font-family: 'calibri';
+    color:rgb(163, 171, 167);
+  }
+  .paragraph103 {
+    position: absolute;
+    top: 860%;
+    left: 12%;
+  }
+  .paragraph104 {
+    position: absolute;
+    top: 875%;
+    left: 93%;
+  }
+
+
+
+  
+
+  
+  
+  
+ 
+ 
+
+
+    
+  
+
